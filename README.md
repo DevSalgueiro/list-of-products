@@ -1,2 +1,2 @@
-# Estudo de requisições HTTP com React
+# Study of HTTP requests with React
 
